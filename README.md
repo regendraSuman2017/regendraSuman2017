@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Regendra Suman</h1>
-<h3 align="center">A passionate Flutter developer with a keen interest in crafting delightful and performant mobile experiences.</h3>
+<h3 align="center">A passionate Flutter Trainer and Flutter developer with a keen interest in crafting delightful and performant mobile experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regendrasuman2017&label=Profile%20views&color=0e75b6&style=flat" alt="regendrasuman2017" /> </p>
 
