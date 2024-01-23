@@ -1,4 +1,4 @@
-<img src='https://github.com/regendraSuman2017/regendraSuman2017/blob/main/5.png' />
+<img src='https://github.com/regendraSuman2017/regendraSuman2017/blob/main/regendra_suman.png' />
 <h1 align="center">Hi 👋, I'm Regendra Suman</h1>
 <h3 align="center">A passionate Flutter Trainer and Flutter developer with a keen interest in crafting delightful and performant mobile experiences.</h3>
 
